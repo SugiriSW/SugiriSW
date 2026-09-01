@@ -65,9 +65,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:006994,100:00E5C7&height=60&section=footer" width="100%"/>
 
 ### 🦑 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SugiriSW&theme=ocean_dark&hide_border=true" />
-</p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=SugiriSW&show_icons=true&theme=ocean_dark&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SugiriSW&layout=compact&theme=ocean_dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SugiriSW&theme=ocean_dark&hide_border=true" /> </p> <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00E5C7,100:006994&height=60&section=footer" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00E5C7,100:006994&height=60&section=footer" width="100%"/>
 
