@@ -1,12 +1,16 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA3F7,100:1B6FD1&height=200&section=header&text=Hi%20There!%20I'm%20Sugiri%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Entry%20Level%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/> <a href="https://github.com/SugiriSW"> <img src="https://readme-typing-svg.demolab.com/?lines=Building+intelligent+systems+with+ML+🤖;Turning+data+into+real-world+solutions+🚀;Python+•+Web+•+Flutter+•+MySQL;Always+learning%2C+always+building+✨&font=Fira+Code&center=true&width=600&height=45&color=2EA3F7&vCenter=true&size=22" /> </a> </div>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Machine+Learning;Web+%26+Android+Developer;MySQL+Database+Design" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006994,50:00A8CC,100:00E5C7&height=220&section=header&text=Hi%20There!%20I%27m%20Sugiri%20🌊&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Entry%20Level%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
----
+<a href="https://github.com/SugiriSW">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Diving+into+AI+%26+Machine+Learning+🐠;Building+intelligent+systems+that+swim+deep+🌊;Python+-+Web+-+Flutter+-+MySQL;Always+learning%2C+always+building+✨&font=Fira+Code&center=true&width=650&height=45&color=00A8CC&vCenter=true&size=22" alt="Typing SVG" />
+</a>
 
-### 🚀 About Me
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:006994,100:00E5C7&height=60&section=footer" width="100%"/>
+
+### 🐬 About Me
 
 - 🔭 Aspiring **AI Engineer**, currently building skills in Machine Learning, Deep Learning, and LLM/NLP
 - 🌐 Experienced in building **web applications** end-to-end
@@ -16,9 +20,9 @@
 - 💬 Ask me about AI/ML, web development, or Android development
 - 📫 How to reach me: **sugirisatriowi@gmail.com**
 
----
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00E5C7,100:006994&height=60&section=footer" width="100%"/>
 
-### 🛠️ Tech Stack
+### 🐙 Tech Stack
 
 **AI / Machine Learning**
 <p>
@@ -65,16 +69,22 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:006994,100:00E5C7&height=60&section=footer" width="100%"/>
 
-### 📊 GitHub Stats
+### 🦑 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SugiriSW&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SugiriSW&show_icons=true&theme=oceanic-next&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SugiriSW&layout=compact&theme=oceanic-next&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SugiriSW&theme=oceanic-next&hide_border=true" />
+</p>
 
-### 🌐 Connect with Me
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00E5C7,100:006994&height=60&section=footer" width="100%"/>
+
+### 🐳 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sugiri-satrio-wicaksono-5607013b3/" target="_blank">
@@ -88,6 +98,6 @@
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006994,50:00A8CC,100:00E5C7&height=120&section=footer" width="100%"/>
 
-<p align="center"><i>⭐️ Thanks for visiting my profile!</i></p>
+<p align="center"><i>⭐️ Thanks for visiting my profile! Let's dive into AI together 🌊</i></p>
