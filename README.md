@@ -4,8 +4,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:006994,100:00E5C7&height=60&section=footer" width="100%"/>
-
 ### 🐬 About Me
 
 - 🔭 Aspiring **AI Engineer**, currently building skills in Machine Learning, Deep Learning, and LLM/NLP
