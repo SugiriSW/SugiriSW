@@ -12,10 +12,10 @@
 - 🔭 Aspiring **AI Engineer**, currently building skills in Machine Learning, Deep Learning, and LLM/NLP
 - 🌐 Experienced in building **web applications** end-to-end
 - 📱 Also developing **Android apps** with Flutter
-- 🗄️ Skilled in **database design** — ERD, TRD, and Class Diagrams — plus managing MySQL databases
+- 🗄️ Skilled in **database design**, ERD, TRD, and Class Diagrams, plus managing MySQL databases
 - 🌱 Always learning new technologies in AI & software engineering
 - 💬 Ask me about AI/ML, web development, or Android development
-- 📫 How to reach me: **[your email]**
+- 📫 How to reach me: **Sugirisatriowi@gmail.com**
 
 ---
 
