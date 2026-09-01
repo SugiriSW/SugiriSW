@@ -91,4 +91,4 @@
 
 ---
 
-<p align="center"><i>⭐️ Thanks for visiting my profile! Let's build something with AI together 🚀</i></p>
+<p align="center"><i>⭐️ Thanks for visiting my profile!</i></p>
