@@ -95,6 +95,6 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006994,50:00A8CC,100:00E5C7&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:006994,50:00A8CC,100:00E5C7&height=100&section=footer" width="100%"/>
 
 <p align="center"><i>⭐️ Thanks for visiting my profile! Let's dive into AI together 🌊</i></p>
