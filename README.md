@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sugiri</h1>
+<h1 align="center">Hi, I'm Sugiri👋</h1>
 <h3 align="center">Entry Level AI Engineer | Web Developer | Android Developer | Database & System Design</h3>
 
 <p align="center">
