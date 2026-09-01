@@ -29,6 +29,8 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
+---
+
 **Web Development**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -40,6 +42,8 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
+---
+
 **Android Development**
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -48,11 +52,15 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
+---
+
 **Database**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
 </p>
+
+---
 
 **Tools**
 <p>
@@ -63,11 +71,15 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:006994,100:00E5C7&height=60&section=footer" width="100%"/>
+
 ### 🦑 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SugiriSW&background=0D1B2A&ring=00A8CC&fire=00E5C7&currStreakNum=E0FBFC&sideNums=E0FBFC&currStreakLabel=00E5C7&sideLabels=94D2BD&dates=94D2BD&border=00A8CC&hide_border=false" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00E5C7,100:006994&height=60&section=footer" width="100%"/>
 
 ### 🐳 Connect with Me
 
