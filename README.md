@@ -12,10 +12,10 @@
 - 🔭 Aspiring **AI Engineer**, currently building skills in Machine Learning, Deep Learning, and LLM/NLP
 - 🌐 Experienced in building **web applications** end-to-end
 - 📱 Also developing **Android apps** with Flutter
-- 🗄️ Skilled in **database design**, ERD, TRD, and Class Diagrams, plus managing MySQL databases
+- 🗄️ Skilled in **database design** — ERD, TRD, and Class Diagrams — plus managing MySQL databases
 - 🌱 Always learning new technologies in AI & software engineering
 - 💬 Ask me about AI/ML, web development, or Android development
-- 📫 How to reach me: **Sugirisatriowi@gmail.com**
+- 📫 How to reach me: **sugirisatriowi@gmail.com**
 
 ---
 
@@ -69,6 +69,12 @@
 ---
 
 ### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SugiriSW&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SugiriSW&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SugiriSW&theme=tokyonight&hide_border=true" />
 </p>
@@ -78,17 +84,17 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/SugiriSW" target="_blank">
+  <a href="https://www.linkedin.com/in/sugiri-satrio-wicaksono-5607013b3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:sugirisatriowi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/SugiriSW" target="_blank">
+  <a href="https://www.instagram.com/sugiri_day/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center"><i>⭐️ Thanks for visiting my profile!</i></p>
+<p align="center"><i>⭐️ Thanks for visiting my profile! Let's build something with AI together 🚀</i></p>
