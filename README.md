@@ -3,6 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006994,50:00A8CC,100:00E5C7&height=220&section=header&text=Hi%20There!%20I%27m%20Sugiri%20🌊&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Entry%20Level%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:006994,100:00E5C7&height=60&section=footer" width="100%"/>
+
 ### 🐬 About Me
 
 - 🔭 Aspiring **AI Engineer**, currently building skills in Machine Learning, Deep Learning, and LLM/NLP
@@ -65,7 +68,10 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:006994,100:00E5C7&height=60&section=footer" width="100%"/>
 
 ### 🦑 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=SugiriSW&show_icons=true&theme=ocean_dark&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SugiriSW&layout=compact&theme=ocean_dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SugiriSW&theme=ocean_dark&hide_border=true" /> </p> <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00E5C7,100:006994&height=60&section=footer" width="100%"/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SugiriSW&theme=ocean_dark&hide_border=true" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00E5C7,100:006994&height=60&section=footer" width="100%"/>
 
