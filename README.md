@@ -67,11 +67,6 @@
 ### 🦑 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SugiriSW&show_icons=true&theme=ocean_dark&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SugiriSW&layout=compact&theme=ocean_dark&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SugiriSW&background=0D1B2A&ring=00A8CC&fire=00E5C7&currStreakNum=E0FBFC&sideNums=E0FBFC&currStreakLabel=00E5C7&sideLabels=94D2BD&dates=94D2BD&border=00A8CC&hide_border=false" />
 </p>
 
