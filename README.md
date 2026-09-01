@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sugiri</h1>
-<h3 align="center">AI Engineer | Web Developer | Android Developer | Database Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">Entry Level AI Engineer | Web Developer | Android Developer | Database Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Machine+Learning;Web+%26+Android+Developer;MySQL+Database+Design" alt="Typing SVG" />
@@ -9,13 +9,13 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently focused on **AI Engineering** (Machine Learning, Deep Learning, LLM/NLP)
+- 🔭 Aspiring **AI Engineer**, currently building skills in Machine Learning, Deep Learning, and LLM/NLP
 - 🌐 Experienced in building **web applications** end-to-end
 - 📱 Also developing **Android apps** with Flutter
 - 🗄️ Comfortable designing and managing **MySQL databases**
 - 🌱 Always learning new technologies in AI & software engineering
 - 💬 Ask me about AI/ML, web development, or Android development
-- 📫 How to reach me: **Sugirisatriowi@gmail.com**
+- 📫 How to reach me: **[your email]**
 
 ---
 
@@ -63,11 +63,17 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SugiriSW&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SugiriSW&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SugiriSW&theme=tokyonight&hide_border=true" />
