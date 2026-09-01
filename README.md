@@ -3,9 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006994,50:00A8CC,100:00E5C7&height=220&section=header&text=Hi%20There!%20I%27m%20Sugiri%20🌊&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Entry%20Level%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:006994,100:00E5C7&height=60&section=footer" width="100%"/>
-
 ### 🐬 About Me
 
 - 🔭 Aspiring **AI Engineer**, currently building skills in Machine Learning, Deep Learning, and LLM/NLP
