@@ -4,10 +4,8 @@
 
 </div>
 
-<h3 align="center">Entry Level AI Engineer | Web Developer | Android Developer | Database & System Design</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Machine+Learning;Web+%26+Android+Developer;MySQL+Database+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Entry+Level+AI+Engineer+%7C+Web+Developer+%7C+Android+Developer+%7C+Database+%26+System+Design" alt="Typing SVG" />
 </p>
 
 ### 🐬 About Me
