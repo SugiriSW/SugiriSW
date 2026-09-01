@@ -3,9 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006994,50:00A8CC,100:00E5C7&height=220&section=header&text=Hi%20There!%20I%27m%20Sugiri%20🌊&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Entry%20Level%20AI%20Engineer%20%7C%20Web%20Developer%20%7C%20Android%20Developer%20%7C%20Database%20and%20System%20Design&descAlignY=58&descSize=14" width="100%"/>
 
 </div>
-
-<h3 align="center">Entry Level AI Engineer | Web Developer | Android Developer | Database & System Design</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Machine+Learning;Web+%26+Android+Developer;MySQL+Database+Design" alt="Typing SVG" />
 </p>
